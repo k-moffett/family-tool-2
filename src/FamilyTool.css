@@ -1,0 +1,8 @@
+#FamilyTool {
+  height: 100%;
+  width: 100%;
+}
+
+.notFamilyFriendly {
+  background: rgba(255, 0, 0, 0.514);
+}
